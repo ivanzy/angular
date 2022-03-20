@@ -2,12 +2,16 @@
 
 Vamos testar a nossa primeira aplicação Angular. Nesse momento, não é importante entendermos tudo o que está acontecendo, vamos apenas tentar executar o código e ter nossa primeira experiência com o ambiente de desenvolvimento e o framework. 
 
-Para desenvolver uma aplicação Angular, precisamos ter o (Node)[https://nodejs.org/en/download/] e o npm instalado na nossa máquina. 
-
-Verifique se o Node e o npm foram instalados corretamente; 
+Para desenvolver uma aplicação Angular, precisamos ter o (Node)[https://nodejs.org/en/download/] e o npm instalado na nossa máquina. Verifique se o Node e o npm foram instalados corretamente; 
 ```console
 $ node -v
 $ npm -v
+```
+
+É necessário também instalar o TypeScript
+```console 
+$ npm install -g typescript
+$ tsc
 ```
 
 Esse tutorial é uma versão resumida do guia que está no site do [Angular](https://angular.io/guide/setup-local). Para instalar o angular execute: 
