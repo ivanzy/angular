@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dracula-theme.theme-dracula",
+    "mathcale.theme-dracula-refined",
+    "humao.rest-client",
+    "equinusocio.vsc-material-theme-icons",
+    "editorconfig.editorconfig"
+  ]
+}
